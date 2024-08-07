@@ -67,7 +67,7 @@ O que deve ser criado nessa etapa
 ### Opcional
 
 - Adicione quaisquer bibliotecas ou ferramentas adicionais que considere úteis para a melhoria do projeto.
-- Além dos requisitos obrigatórios, você está livre para escolher as bibliotecas que irá utilizar. Faça essa escolha com base nas tecnologias que você já tem experiência.
+- Além dos requisitos obrigatórios, você está livre para escolher os design patterns e bibliotecas que irá utilizar. Faça essa escolha com base nas tecnologias que você já tem experiência.
 
 ## Referências
 - [PostgreSQL](https://www.postgresql.org/)
