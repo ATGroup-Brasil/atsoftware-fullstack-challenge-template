@@ -14,6 +14,20 @@ O back-end do projeto está localizado na pasta `/back-end` e foi configurado ut
 
 ## Desafio
 
+### Banco de Dados
+Os bancos de dados que podem ser utilizados nesse desafio são
+
+- [PostgreSQL](https://www.postgresql.org/)
+- [MySQL](https://www.mysql.com/)
+
+O banco de dados deve conter as seguintes tabelas
+
+#### machines
+
+- id: inteiro
+- name: texto
+- image: binário
+
 ### API
 
 A API deve conter as seguintes rotas para gerenciamento de máquinas:
@@ -55,6 +69,9 @@ O que deve ser criado nessa etapa
 - Além dos requisitos obrigatórios, você está livre para escolher as bibliotecas que irá utilizar. Faça essa escolha com base nas tecnologias que você já tem experiência.
 
 ## Referências
+- PostgreSQL https://www.postgresql.org/
+- MySQL https://www.mysql.com/
+- Salvando imagens no PostgreSQL https://www.postgresql.org/docs/7.4/jdbc-binary-data.html
 - React https://react.dev/
 - Vite https://vitejs.dev/
 - Node https://nodejs.org/docs/latest/api/documentation.html
