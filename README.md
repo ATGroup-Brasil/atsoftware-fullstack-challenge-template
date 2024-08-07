@@ -32,6 +32,16 @@ A interface deve permitir as seguintes funcionalidades relacionadas a máquinas:
 - **Página de Edição**: Formulário para editar os dados de uma máquina existente.
 - **Botão de Deleção**: Função para remover uma máquina da lista.
 
+### Conteinerização
+
+Após o desenvolvimento das aplicações back-end e front-end, ambas devem ser conteinerizadas utilizando 
+[Docker](https://www.docker.com/)
+
+O que deve ser criado nessa etapa
+
+- Arquivo DockerFile da aplicação front-end
+- Arquivo DockerFile da aplicação back-end
+
 ## Requisitos
 
 ### Obrigatório
@@ -50,3 +60,5 @@ A interface deve permitir as seguintes funcionalidades relacionadas a máquinas:
 - Node https://nodejs.org/docs/latest/api/documentation.html
 - Express https://expressjs.com/pt-br/
 - Typescript https://www.typescriptlang.org/docs/
+- Docker https://www.docker.com/
+- Conteinerização https://www.docker.com/resources/what-container/
