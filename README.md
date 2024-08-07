@@ -36,6 +36,7 @@ A API deve conter as seguintes rotas para gerenciamento de máquinas:
 - **GET /machine/:machineId**: Recuperar detalhes de uma máquina específica pelo ID.
 - **POST /machine**: Criar uma nova máquina.
 - **PUT /machine/:machineId**: Atualizar os dados de uma máquina existente pelo ID.
+- **DELETE /machine/:machineId**: Realiza a deleção de uma máquina existente pelo ID.
 
 ### Interface de Usuário
 
