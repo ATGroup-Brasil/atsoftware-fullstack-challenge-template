@@ -70,13 +70,13 @@ O que deve ser criado nessa etapa
 - Além dos requisitos obrigatórios, você está livre para escolher as bibliotecas que irá utilizar. Faça essa escolha com base nas tecnologias que você já tem experiência.
 
 ## Referências
-- PostgreSQL https://www.postgresql.org/
-- MySQL https://www.mysql.com/
-- Salvando imagens no PostgreSQL https://www.postgresql.org/docs/7.4/jdbc-binary-data.html
-- React https://react.dev/
-- Vite https://vitejs.dev/
-- Node https://nodejs.org/docs/latest/api/documentation.html
-- Express https://expressjs.com/pt-br/
-- Typescript https://www.typescriptlang.org/docs/
-- Docker https://www.docker.com/
-- Conteinerização https://www.docker.com/resources/what-container/
+- [PostgreSQL](https://www.postgresql.org/)
+- [MySQL](https://www.mysql.com/)
+- [Salvando imagens no PostgreSQL](https://www.postgresql.org/docs/7.4/jdbc-binary-data.html)
+- [React](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- [Node](https://nodejs.org/docs/latest/api/documentation.html)
+- [Express](https://expressjs.com/pt-br/)
+- [Typescript](https://www.typescriptlang.org/docs/)
+- [Docker](https://www.docker.com/)
+- [Conteinerização](https://www.docker.com/resources/what-container/)
