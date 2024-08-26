@@ -47,7 +47,7 @@ A interface deve permitir as seguintes funcionalidades relacionadas a máquinas:
 - **Página de Edição**: Formulário para editar os dados de uma máquina existente.
 - **Botão de Deleção**: Função para remover uma máquina da lista.
 
-### Conteinerização
+### Conteinerização (Opcional)
 
 Após o desenvolvimento das aplicações back-end e front-end, ambas devem ser conteinerizadas utilizando 
 [Docker](https://www.docker.com/)
@@ -68,6 +68,7 @@ O que deve ser criado nessa etapa
 
 - Adicione quaisquer bibliotecas ou ferramentas adicionais que considere úteis para a melhoria do projeto.
 - Além dos requisitos obrigatórios, você está livre para escolher os design patterns e bibliotecas que irá utilizar. Faça essa escolha com base nas tecnologias que você já tem experiência.
+- Após a finalização, você pode utilizar [Docker](https://www.docker.com/) para conteinerizar as aplicações.
 
 ## Referências
 - [PostgreSQL](https://www.postgresql.org/)
